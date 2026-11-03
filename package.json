@@ -6347,7 +6347,7 @@
 		"vscode-languageserver-types": "^3.17.5",
 		"yaml": "^2.8.0",
 		"yargs": "^17.7.2",
-		"zod": "3.25.76"
+		"zod": "4.6.6"
 	},
 	"dependencies": {
 		"@anthropic-ai/claude-agent-sdk": "^0.2.91",
@@ -6399,7 +6399,7 @@
 		"@aminya/node-gyp-build": "npm:node-gyp-build@4.8.1",
 		"string_decoder": "npm:string_decoder@1.2.0",
 		"node-gyp": "npm:node-gyp@10.3.1",
-		"zod": "3.25.76"
+		"zod": "4.6.6"
 	},
 	"vscodeCommit": "20b24833bc088c84b778ee89be4c17f15660441a"
 }
